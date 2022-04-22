@@ -9,3 +9,4 @@ This is the final year project where dumping all the resources I found here.
 ## Main objective of the project is to calculate the time difference expected and actual run time of the layers.
 
 
+https://www.pluralsight.com/guides/time-profiling-neural-networks-model This provides the time profiling for 
